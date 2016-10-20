@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_67d4bdd374f6124a77059597868c96bae79dfd6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_162961b0ef4895234b3471952a850d83678d83f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\cn.pedant.sweetalert\library\1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\cn.pedant.sweetalert-library-1.3_5cf7ab17a6316540f65b547fe8622ae1d3251154.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_379ac74c171eeef55f237a14fda46445b6a31025.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_379ac74c171eeef55f237a14fda46445b6a31025.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_84adffbb9bbadd7638cdbf35d68dad4000dc7a72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f2f8327639d8d25604a947051ee3d78da60889bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_67d4bdd374f6124a77059597868c96bae79dfd6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_869cc91eb9faa5972f980f900f1b417433dd457c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_84adffbb9bbadd7638cdbf35d68dad4000dc7a72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_32e48ccf07533442f9a2bfe1c260a17a200274dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_32e48ccf07533442f9a2bfe1c260a17a200274dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_162961b0ef4895234b3471952a850d83678d83f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_631770e4f711856ca45232f8ed8a676c8947ba97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_869cc91eb9faa5972f980f900f1b417433dd457c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_75c8442c0fc0460655bfbeca6f6da9003757058e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_f44f36df55a104e129fcceaa8468c29d3e035b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_75c8442c0fc0460655bfbeca6f6da9003757058e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_631770e4f711856ca45232f8ed8a676c8947ba97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.pnikosis\materialish-progress\1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.pnikosis-materialish-progress-1.0_dfefc28db24ccdeabcdc706b47f2411705e95936.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_2b886b8d7ff58b2da20b6389c6140266f6b1fdcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_2b886b8d7ff58b2da20b6389c6140266f6b1fdcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_f44f36df55a104e129fcceaa8468c29d3e035b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.viewpagerindicator\library\2.4.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="88e8e18d365173ad04a543d76c157e0b644f0b3f">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.viewpagerindicator-library-2.4.1_050a12f410e56ca151a133a5bc71deb17f0bab3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5c86876d35c64fef4d4c614c098024f0c38b5057.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5c86876d35c64fef4d4c614c098024f0c38b5057.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f2f8327639d8d25604a947051ee3d78da60889bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_452ae9aeca1c8ad8d22bdc2849dce0792688013e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_fb48b0a486064455692fb2a817d10f2b35228e01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_fb48b0a486064455692fb2a817d10f2b35228e01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_b17f4bc7bdb5df65163ad893a0d489129360d592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_452ae9aeca1c8ad8d22bdc2849dce0792688013e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_b17f4bc7bdb5df65163ad893a0d489129360d592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android sdk\android-sdks\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_7ba77e72ca1af9e86b3975de59ef7c786ea13897.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d2e20c74f6ca39486209288b2c20bbbb6249e79e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_199343297c20afb03ef1fe70a73105128ed7a4ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_d2e20c74f6ca39486209288b2c20bbbb6249e79e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android sdk\android-sdks\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_7ba77e72ca1af9e86b3975de59ef7c786ea13897.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\project\project\VMS new\C4CAR\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="E:\project\project\VMS new\C4CAR\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_199343297c20afb03ef1fe70a73105128ed7a4ca.jar" />
+    </item>
+
+</items>
